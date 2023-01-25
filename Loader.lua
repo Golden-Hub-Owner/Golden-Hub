@@ -13,5 +13,5 @@ else
         Text = "This game is not supported, Universal UI is loading.";
         Duration = 5;
     })
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/Golden-Hub-Owner/Golden-Hub/main/Loader.lua"))() 
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Golden-Hub-Owner/Golden-Hub/main/Universal.lua"))() 
 end
