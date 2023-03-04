@@ -20,7 +20,7 @@ local Games = {
    [10704789056] = "https://raw.githubusercontent.com/Golden-Hub-Owner/Golden-Hub/main/Drive%20World.lua", -- Drive World
    [2551991523] = "https://raw.githubusercontent.com/Golden-Hub-Owner/Golden-Hub/main/Broken%20Bones%20IV.lua", -- Broken Bones IV
    [11179373590] = "https://raw.githubusercontent.com/Golden-Hub-Owner/Golden-Hub/main/Broken%20Bones%20V.lua", -- Broken Bones V BETA
-   [4898339524] = "https://raw.githubusercontent.com/Golden-Hub-Owner/Golden-Hub/main/Broken%20Ragdolls.lua", -- Broken Ragdolls
+   [4898339524] = "https://github.com/Golden-Hub-Owner/Golden-Hub/blob/main/Ragdoll%20to%20break%20bones.lua", -- Ragdoll to break bones
    [6366329104] = "https://raw.githubusercontent.com/Golden-Hub-Owner/Golden-Hub/main/Off-Roading%20Epic.lua", -- Off-Roading Epic
    [891852901] = "https://raw.githubusercontent.com/Golden-Hub-Owner/Golden-Hub/main/Greenville.lua", -- Greenville
 }
