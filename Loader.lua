@@ -17,7 +17,6 @@ local Games = {
    [3351674303] = "https://raw.githubusercontent.com/Golden-Hub-Owner/Golden-Hub/main/Driving%20Empire.lua", -- Driving Empire
    [6038360624] = "https://raw.githubusercontent.com/Golden-Hub-Owner/Golden-Hub/main/Portland.lua", -- Portland
    [1018293455] = "https://raw.githubusercontent.com/Golden-Hub-Owner/Golden-Hub/main/Full%20Throttle.lua", -- Full Throttle
-   [10704789056] = "https://raw.githubusercontent.com/Golden-Hub-Owner/Golden-Hub/main/Drive%20World.lua", -- Drive World
    [2551991523] = "https://raw.githubusercontent.com/Golden-Hub-Owner/Golden-Hub/main/Broken%20Bones%20IV.lua", -- Broken Bones IV
    [11179373590] = "https://raw.githubusercontent.com/Golden-Hub-Owner/Golden-Hub/main/Broken%20Bones%20V.lua", -- Broken Bones V BETA
    [4898339524] = "https://raw.githubusercontent.com/Golden-Hub-Owner/Golden-Hub/main/Broken%20Ragdolls.lua", -- Broken Ragdolls
